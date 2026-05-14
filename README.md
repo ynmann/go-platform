@@ -1,7 +1,3 @@
-# go-platform
-
-Shared platform toolkit for Go services.
-
 ## Features
 
 - Typed context keys (`ctxkeys`)
